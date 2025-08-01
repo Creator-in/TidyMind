@@ -1,5 +1,34 @@
 # TidyMind 🤖
  AI-powered mood planner ✍ that turns your emotions into action 🎭.
+<img width="1829" height="886" alt="image" src="https://github.com/user-attachments/assets/cdb5d0fd-2499-4219-bce0-f386e8f81b0e" />
+
+<img width="1826" height="877" alt="image" src="https://github.com/user-attachments/assets/8d1e5a2e-1fe3-45d8-9c0a-f350cc2d7b5d" />
+
+<img width="1824" height="882" alt="image" src="https://github.com/user-attachments/assets/43e830fe-c689-4f7f-b686-0e30ce07c0f7" />
+
+<img width="1823" height="880" alt="image" src="https://github.com/user-attachments/assets/aa796cf8-3465-474f-9d71-ba1ea6150e20" />
+
+<img width="1820" height="874" alt="image" src="https://github.com/user-attachments/assets/e0469874-ffe5-48cb-bba2-3cba1b03beea" />
+
+
+<img width="1796" height="864" alt="image" src="https://github.com/user-attachments/assets/9e8c2aae-3591-4537-86e4-2828cab34c71" />
+
+<img width="1801" height="858" alt="image" src="https://github.com/user-attachments/assets/788b6849-5199-4b7c-b23d-e11743fd3b1c" />
+
+<img width="1183" height="629" alt="image" src="https://github.com/user-attachments/assets/b8af7a4e-0b9c-44c6-9557-239bbd3b260b" />
+
+<img width="325" height="731" alt="image" src="https://github.com/user-attachments/assets/f087bdf6-198a-41f7-b96f-546e1b371548" />
+
+
+<img width="321" height="730" alt="image" src="https://github.com/user-attachments/assets/1133e073-f36c-4fe1-a06d-90898204d8e4" />
+
+<img width="1162" height="802" alt="image" src="https://github.com/user-attachments/assets/bbb09c95-f1eb-4359-a07e-e61059f5b248" />
+
+
+
+
+
+
 
 
 <<<<<<< HEAD
