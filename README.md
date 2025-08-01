@@ -2,6 +2,7 @@
  AI-powered mood planner ✍ that turns your emotions into action 🎭.
 <img width="1829" height="886" alt="image" src="https://github.com/user-attachments/assets/cdb5d0fd-2499-4219-bce0-f386e8f81b0e" />
 
+
 <img width="1826" height="877" alt="image" src="https://github.com/user-attachments/assets/8d1e5a2e-1fe3-45d8-9c0a-f350cc2d7b5d" />
 
 <img width="1824" height="882" alt="image" src="https://github.com/user-attachments/assets/43e830fe-c689-4f7f-b686-0e30ce07c0f7" />
@@ -23,6 +24,14 @@
 <img width="321" height="730" alt="image" src="https://github.com/user-attachments/assets/1133e073-f36c-4fe1-a06d-90898204d8e4" />
 
 <img width="1162" height="802" alt="image" src="https://github.com/user-attachments/assets/bbb09c95-f1eb-4359-a07e-e61059f5b248" />
+
+<img width="1809" height="864" alt="image" src="https://github.com/user-attachments/assets/80e13947-61ee-4eb9-b214-ef1ae4cc315e" />
+
+<img width="1158" height="808" alt="image" src="https://github.com/user-attachments/assets/85886257-696a-42a2-a39a-97f41f5bc639" />
+
+
+<img width="1165" height="811" alt="image" src="https://github.com/user-attachments/assets/09a2a60c-9879-4f84-99a5-87cadc4caaec" />
+
 
 
 
